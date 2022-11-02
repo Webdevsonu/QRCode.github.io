@@ -1,0 +1,29 @@
+body {
+	font-family: 'Outfit', sans-serif;
+	background-color: powderblue;
+	font-size: 12px;
+
+
+}
+
+.box {
+	border:1px solid white;
+	border-radius: 20px;
+	overflow: auto;
+	width: 375px;
+	background:white;
+	text-align: center;
+	margin: auto;
+}
+
+.items {
+	padding: 20px;
+}
+
+img {
+	border-radius: 20px;
+}
+p {
+	color: grey;
+	font-size: 15px;
+}
